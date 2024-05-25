@@ -1,0 +1,5 @@
+{
+  "version": 2,
+  "build": [{ "src": "./Form.html", "use": "@vercel/forms" }],
+  "routes": [{ "src": "./Form.html", "dest": "@vercel/forms" }]
+}
